@@ -24,7 +24,12 @@ main:
   - type: service
     title: Another role
     institution:
-    years: 2021s
+    years: 2021
+
+  - type: service
+    title: A Third Role
+    institution:
+    years: 2023
     
 # The structure of the data. You can include or exclude material as you need.
 #  - type: # types include "education" for degree paths, "job" for past positions, and "service" for service positions.
