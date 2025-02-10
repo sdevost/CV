@@ -1,8 +1,8 @@
 # Basic Information 
-title: "Sean: Purcell" # your name goes here
-position: Digital Health Humanities Program Coordinator # your position title goes here
-affiliation: University of California San Francisco # your affiliated school goes here
-email: sean dot purcell at ucsf dot edu # your email goes here
+title: "Michelle (Shelley) DeVost" # your name goes here
+position: PhD Candidate in Epidemiology and Translational Science # your position title goes here
+affiliation: University of California, San Francisco # your affiliated school goes here
+email: shelley dot devost at ucsf dot edu # your email goes here
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,10 +12,10 @@ description: The Minimal Light is a simple and elegant jekyll theme for academic
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: # if you have a google scholar you can put it here.
+google_scholar: https://scholar.google.com/citations?user=3FsCV_IAAAAJ&hl=en # if you have a google scholar you can put it here.
 # cv_link: # you can include your cv. place it into the assets/files/ folder on the repo
 # github_link: # if you want to share your github account you can add it here.
-# linkedin:
+linkedin: https://www.linkedin.com/in/shelley-devost-mph/
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
